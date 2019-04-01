@@ -7,11 +7,16 @@ Lesson Plan:
 - Brainstorm solutions
 - Solve with vectorization
 
+## Prerequisites
+
+- Go
+- Gonum: `go get -u gonum.org/v1/gonum`
+- Gochart: `go get -u github.com/wcharczuk/go-chart`
+
 ## So whats the problem here?
 
 Data is dirty for different reasons, there is a true signal or pattern here.
 We should find a transformation that takes dirty data and spits out the true signal.
-
 
 ## How can we solve it?
 
