@@ -1,7 +1,5 @@
 # What is data and why is it garbage?
 
-**PSA: There is nothing in here about fast fourier transforms**
-
 Lesson Plan:
 - The problem
 - Brainstorm solutions
